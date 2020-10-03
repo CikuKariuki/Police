@@ -12,6 +12,7 @@ The data is made up of 65,526 entries and 15 columns, uncleaned data. After clea
 * In total 2,477 searches have been conducted on the 61,221 stops i.e. only 4.05% chance of getting searched. 
 * The average stop time for everyone is 12 minutes. 
 * Averagely there are 23 stops per day; the most number of stops in a day were 64 on the 28th of February 2012. The least number of stops in a day is 1, which occurred quite a number of times. On the 28-Feb-2012 offenses were as follows:
+
 | Violation | Number of stops |
 | --------- | --------------- |
 | Speeding | 25 |
@@ -27,8 +28,9 @@ The data is made up of 65,526 entries and 15 columns, uncleaned data. After clea
 #### Speeding
 
 A total of 37,118 people were stopped for speeding.
+
 ***Gender***
-More men than women are stopped by the police for going over the speed limit. 25,458 were stopped versus 11,660 women.![malevfemale.png](attachment:malevfemale.png)
+More men than women are stopped by the police for going over the speed limit. 25,458 were stopped versus 11,660 women.
 
 ***Age***
 Average age of people caught overspeeding is 33.26 years with the youngest being 15 years old and the oldest being 88 years old. out of the 61,221 people stopped over the years 37,118 people were stopped for overspeeding, i.e. 60.63% of stops were speeding related. This seems to be a big problem for police around this region.
