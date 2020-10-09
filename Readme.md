@@ -29,14 +29,11 @@ The data is made up of 65,526 entries and 15 columns, uncleaned data. After clea
 
 A total of 37,118 people were stopped for speeding.
 
-***Gender***
-More men than women are stopped by the police for going over the speed limit. 25,458 were stopped versus 11,660 women.
+***Gender:*** More men than women are stopped by the police for going over the speed limit. 25,458 were stopped versus 11,660 women.
 
-***Age***
-Average age of people caught overspeeding is 33.26 years with the youngest being 15 years old and the oldest being 88 years old. out of the 61,221 people stopped over the years 37,118 people were stopped for overspeeding, i.e. 60.63% of stops were speeding related. This seems to be a big problem for police around this region.
+***Age:*** Average age of people caught overspeeding is 33.26 years with the youngest being 15 years old and the oldest being 88 years old. out of the 61,221 people stopped over the years 37,118 people were stopped for overspeeding, i.e. 60.63% of stops were speeding related. This seems to be a big problem for police around this region.
 
-***Race***
-Majority of people stopped for speeding were white at 81.14%. More information is given on this on the table below.
+***Race:*** Majority of people stopped for speeding were white at 81.14%. More information is given on this on the table below.
 | **Race** | **% stopped** | **actual number** |
 | -------- | ------------- | --------------- |
 | White | 81.14% | 30,118 |
@@ -45,67 +42,63 @@ Majority of people stopped for speeding were white at 81.14%. More information i
 | Asian | 3.16% | 1172 |
 | Other | 0.34% | 125 |
 
-***Search Conducted***
-Out of all the 37,118 people who were stopped for overspeeding, only 795 people had their cars searched. Assuming all factors constant, probability of having one's car searched after being stopped for overspeeding is 0.021(2.1%).
+***Search Conducted:*** Out of all the 37,118 people who were stopped for overspeeding, only 795 people had their cars searched. Assuming all factors constant, probability of having one's car searched after being stopped for overspeeding is 0.021(2.1%).
 
-***Arrested?***
-Those arrested after being stopped for overspeeding are only 548 people. The probability of getting arrested, assuming all other factors don't affect this, is 0.015(1.5%).
+***Arrested?*** Those arrested after being stopped for overspeeding are only 548 people. The probability of getting arrested, assuming all other factors don't affect this, is 0.015(1.5%).
 
-***Average time***
-Speeding offenders are usually stopped for an average of 10.45 minutes.
+***Average time:*** Speeding offenders are usually stopped for an average of 10.45 minutes.
 
-***Drug related***
-Among the stops for overspeeding, 179 of those stops evolved into drug related stops.
+***Drug related:*** Among the stops for overspeeding, 179 of those stops evolved into drug related stops.
 
 #### Moving Violation 
 
 A total of 11,876 people were stopped for moving violations.
-***Gender***
+***Gender:***
 
-***Age***
-***Race***
-***Search conducted***
+***Age:***
+***Race:***
+***Search conducted:***
 ***Arrested?***
-***Average time***
-***Drug related***
+***Average time:***
+***Drug related:***
 
 #### Equipment
 
-***Gender***
-***Age***
-***Race***
-***Search conducted***
+***Gender:***
+***Age:***
+***Race:***
+***Search conducted:***
 ***Arrested?***
-***Average time***
+***Average time:***
 ***Drug related***
 
 #### Other
 
-***Gender***
-***Age***
-***Race***
-***Search conducted***
+***Gender:***
+***Age:***
+***Race:***
+***Search conducted:***
 ***Arrested?***
-***Average time***
-***Drug related***
+***Average time:***
+***Drug related:***
 
 #### Registration/Plates
 
-***Gender***
-***Age***
-***Race***
-***Search conducted***
+***Gender:***
+***Age:***
+***Race:***
+***Search conducted:***
 ***Arrested?***
-***Average time***
-***Drug related***
+***Average time:***
+***Drug related:***
 
 #### Seat belt
 
-***Gender***
-***Age***
-***Race***
-***Search conducted***
+***Gender:***
+***Age:***
+***Race:***
+***Search conducted:***
 ***Arrested?***
-***Average time***
-***Drug related***
+***Average time:***
+***Drug related:***
 
